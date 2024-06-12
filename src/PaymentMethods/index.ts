@@ -55,6 +55,7 @@ export { default as wonenzo } from './GiftCard';
 export { default as yourgift } from './GiftCard';
 export { default as vvvgiftcard } from './GiftCard';
 export { default as parfumcadeaukaart } from './GiftCard';
+export { default as customgiftcard } from './GiftCard';
 
 export { default as giropay } from './Giropay';
 export { default as idealqr } from './IdealQR';
